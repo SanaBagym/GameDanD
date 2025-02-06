@@ -2,4 +2,4 @@
 
 Introduction to Game Development
 Solar System Project Peer Review
-It is just for the assignment
+It is just for the assignment in coursera
